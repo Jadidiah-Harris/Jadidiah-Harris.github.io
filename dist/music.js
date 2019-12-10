@@ -6,13 +6,19 @@ const ap = new APlayer({
       {
         name: '魔法使いの夜～メインテーマ',
         artist: 'Hideyuki Fukasawa',
-        url: 'https://music.163.com/song?id=501638',
+        url: 'http://music.163.com/song/media/outer/url?id=501638.mp3',
         cover: '',
       }，
       {
         name: '運命の夜',
         artist: '川井憲次 / 佐々木寿子',
-        url: 'https://music.163.com/song?id=448060',
+        url: 'http://music.163.com/song/media/outer/url?id=448060.mp3',
+        cover: '',
+      }，
+      {
+        name: '騎士王の誇り',
+        artist: '川井憲次',
+        url: 'http://music.163.com/song/media/outer/url?id=448119.mp3',
         cover: '',
       }
     ]
