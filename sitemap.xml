@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/lib/jquery_lazyload/bower.json</loc>
+    
+    <lastmod>2019-12-10T11:27:36.126Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/lib/jquery_lazyload/README.html</loc>
+    
+    <lastmod>2019-12-10T11:27:36.110Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/lib/pace/README.html</loc>
+    
+    <lastmod>2019-12-10T11:07:50.396Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2019-12-09T16:21:20.603Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2019-12-09T16:20:50.499Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2019-12-09T16:20:18.180Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/12/09/hello-world/</loc>
+    
+    <lastmod>2019-12-09T15:46:45.214Z</lastmod>
+    
+  </url>
+  
+</urlset>
