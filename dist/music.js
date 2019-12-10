@@ -4,22 +4,16 @@ const ap = new APlayer({
     autoplay: true,
     audio: [
       {
-        name: "暗涌",
-        artist: '王菲',
-        url: 'http://www.ytmp3.cn/down/52980.mp3',
-        cover: 'http://p1.music.126.net/w8RFsMH8VJfPsBmVudYGsA==/109951163020569833.jpg?param=130y130',
-      },
+        name: '魔法使いの夜～メインテーマ',
+        artist: 'Hideyuki Fukasawa',
+        url: 'https://music.163.com/song?id=501638',
+        cover: '',
+      }，
       {
-        name: 'Wonderful U',
-        artist: 'AGA',
-        url: 'http://www.ytmp3.cn/down/51181.mp3',
-        cover: 'http://p1.music.126.net/Blb_Gi0AJTWIEBLr189F4A==/18791753232142320.jpg?param=130y130',
-      },
-      {
-        name: '浮夸',
-        artist: '陈奕迅',
-        url: 'http://www.ytmp3.cn/down/49639.mp3',
-        cover: 'http://p1.music.126.net/Bl1hEdJbMSj5YJsTqUjr-w==/109951163520311175.jpg?param=130y130',
+        name: '運命の夜',
+        artist: '川井憲次 / 佐々木寿子',
+        url: 'https://music.163.com/song?id=448060',
+        cover: '',
       }
     ]
 });
