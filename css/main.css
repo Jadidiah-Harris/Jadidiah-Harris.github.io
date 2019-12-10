@@ -1291,7 +1291,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #5ced5d;
+  background: #e83cd5;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2843,7 +2843,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 body {
-  background: url("C:UsersasusPicturesCameraRoll.m1.jpg");
+  background: url("D:githubHexoBlogthemesnextsourceimages");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -2860,7 +2860,7 @@ body {
 }
 .main-inner {
   background: #fff;
-  opacity: 0.95;
+  opacity: 0.75;
 }
 .post {
   margin-top: 60px;
