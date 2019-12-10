@@ -147,7 +147,7 @@ template {
   display: none;
 }
 ::selection {
-  background: #262a30;
+  background: #49b1f5;
   color: #fff;
 }
 html,
@@ -265,7 +265,7 @@ table {
   border-spacing: 0;
   font-size: 0.875em;
   margin: 0 0 20px 0;
-  width: 100%;
+  width: normal;
 }
 tbody tr:nth-of-type(odd) {
   background: #f9f9f9;
@@ -295,9 +295,9 @@ td {
 }
 .btn {
   background: #fff;
-  border: 2px solid #555;
+  border: 2px solid #49b1f5;
   border-radius: 2px;
-  color: #555;
+  color: #49b1f5;
   display: inline-block;
   font-size: 0.875em;
   line-height: 2;
@@ -309,8 +309,8 @@ td {
   transition-timing-function: ease-in-out;
 }
 .btn:hover {
-  background: #222;
-  border-color: #222;
+  background: #49b1f5;
+  border-color: #49b1f5;
   color: #fff;
 }
 .btn + .btn {
@@ -408,7 +408,7 @@ code {
   font-family: consolas, Menlo, monospace, "PingFang SC", "Microsoft YaHei";
 }
 code {
-  background: #eee;
+  background: #edf1ff;
   border-radius: 3px;
   color: #555;
   padding: 2px 4px;
@@ -439,7 +439,7 @@ code {
   padding: 0;
 }
 .highlight figcaption {
-  background: #eee;
+  background: #edf1ff;
   color: #4d4d4c;
   font-size: 0.875em;
   line-height: 1.2;
@@ -926,8 +926,8 @@ pre .javascript .function {
   margin: 0.1em 0.2em;
 }
 .comment-button-group .comment-button.active {
-  background: #222;
-  border-color: #222;
+  background: #49b1f5;
+  border-color: #49b1f5;
   color: #fff;
 }
 .comment-position {
@@ -1291,7 +1291,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #45ff7d;
+  background: #ff6095;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
